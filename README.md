@@ -20,6 +20,7 @@ Read the documents in this order. They retain and organize all material from the
 | [Learning by Building](docs/04-learning-by-building.md) | Effective learning technique, a real-time project, and failure drills |
 | [AI-Native Workflow](docs/05-ai-native-workflow.md) | Use AI as teacher, architect, pair programmer, reviewer, and operations assistant |
 | [Checklists and Portfolio](docs/06-checklists-and-portfolio.md) | Definition of done, artifacts, progress signals, and reusable decision checklist |
+| [Level-Based Implementation Roadmap](docs/07-level-based-implementation-roadmap.md) | Beginner, intermediate, advanced, and expert paths with concepts, use cases, implementation tasks, and exit criteria |
 
 ## Recommended Starting Point
 
